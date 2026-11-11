@@ -1,1 +1,2 @@
-# github-practice
+# GitHub練習用リポジトリ
+AIで作成するWebサイトのファイルを管理するための練習用リポジトリです
